@@ -1,4 +1,4 @@
-name: vts2022/public-web-react
+name: vts2022/public-web-docusaurus
 
 on:
   push:
